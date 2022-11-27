@@ -47,9 +47,7 @@ with open(file_to_load) as election_data:
 
         candidate_name = row[2]
 
-        # If the candidate does not match any existing candidate, add the
-
-        # the candidate list.
+        # If the candidate does not match any existing candidate, add the candidate list.
 
         if candidate_name not in candidate_options:
 
