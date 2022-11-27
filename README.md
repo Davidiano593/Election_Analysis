@@ -54,7 +54,7 @@ Based on these results we can define the following:
  - Denver was the decisive county, with 306,055 voters representing 82.8% of the total votes
  - Diana DeGette was the winner of the elections with 272,892 votes, which represents 73.8% of the total
 
-### Conclution
+### Conclusion
 
 Therefore, I have come to the conclusion that in the next elections the candidates should focus on winning votes and putting more effort into their political campaign in Denver County.
  
